@@ -6,3 +6,6 @@ Some text
 
 Line 2
 
+# Header 3
+
+Line 3
